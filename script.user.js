@@ -5,8 +5,8 @@
 // @author       Daniel Law
 // @match        https://www.neopets.com/*
 // @icon         https://www.neopets.com/favicon.ico
-// @downloadURL  https://github.com/daniel-law/neopets-tvw-notify/raw/master/script.js
-// @updateURL  https://github.com/daniel-law/neopets-tvw-notify/raw/master/script.js
+// @downloadURL  https://github.com/daniel-law/neopets-tvw-notify/raw/master/script.user.js
+// @updateURL  https://github.com/daniel-law/neopets-tvw-notify/raw/master/script.user.js
 // @grant        none
 // ==/UserScript==
 
