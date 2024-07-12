@@ -19,4 +19,4 @@ And if you find it useful, a star would be much appreciated! ⭐
 ![Notification when a job has finished](https://cdn.future-lab.uk/a3YlAuyUt0.png)
 
 ## Installation
-Either copy paste the script into Tampermonkey using the new script option, or download the file and use the 'Import' option within the settings.
+As simple as clicking the 'Raw' option on the file, or download the file and use the 'Import' option within Tampermonkey (or your preferred userscript manager) settings.
